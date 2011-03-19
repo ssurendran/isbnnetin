@@ -6,6 +6,6 @@
 - While you're waiting for the prices, you can also read the description of the book, see the book cover and read the reviews of the book.
 - All in all, a quick way of knowing how much the book costs and whether it is worth considering to buy.
 
-- Written using Rails 3
+- Written using Rails 3.
 - Open source. Visit [https://github.com/swaroopch/isbnnetin](https://github.com/swaroopch/isbnnetin) for the source code (Apache license).
     - Note that you will need Memcache and MongoDB installed on your computer to run this software.
